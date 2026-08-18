@@ -1,11 +1,11 @@
 {
-    "name": "habit_alive",
-    "short_name": "habit_alive",
+    "name": "HabitAlive",
+    "short_name": "HabitAlive",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#FCF9F3",
+    "theme_color": "#FCF9F3",
+    "description": "HabitAlive - Build and track habits that stick.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
